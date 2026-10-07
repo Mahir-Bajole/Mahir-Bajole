@@ -1,6 +1,6 @@
 # Hi, I'm Mahir Bajole 👋
 
-**Backend engineer in the making** | Final-year B.Tech CSE @ Walchand College of Engineering, Sangli (CGPA 9.10/10)
+**Backend engineer in the making** | Final-year B.Tech CSE @ Walchand College of Engineering, Sangli (CGPA 8.98/10)
 
 I build backend systems that stay correct under load: event-driven services, serverless pipelines and distributed microservices. I work mostly in **Java and Spring Boot**, and I enjoy problems around consistency, concurrency and auditability.
 
