@@ -14,7 +14,7 @@
 I build backend systems that stay correct under load: event-driven services, serverless pipelines and distributed microservices. I work mostly in **Java and Spring Boot**, and I enjoy problems around consistency, concurrency and auditability.
 
 - 💼 Ex-SDE Intern at **EVArc eMobility Services**: built a serverless ledger and reconciliation module on AWS Lambda with an append-only MongoDB schema
-- 🎓 Former Technical Head of **WCE ACSES**, where I organized expert talks, workshops and coding competitions
+- 🎓 Mentor at **WCE ACSES** and its former Technical Head, where I organized expert talks, workshops and coding competitions
 - 🏆 **1st prize**, state-level project competition (IoT-based smart vehicle safety system)
 - 🌱 Currently building: a Kafka-based ticket booking platform and an AWS deployment-triage tool
 
