@@ -5,6 +5,10 @@
   Final-year B.Tech CSE @ Walchand College of Engineering, Sangli (CGPA 9.10/10)
 </p>
 
+<p align="center">
+  <a href="https://mahirbajole.vercel.app/">🌐 View my portfolio</a>
+</p>
+
 ---
 
 I build backend systems that stay correct under load: event-driven services, serverless pipelines and distributed microservices. I work mostly in **Java and Spring Boot**, and I enjoy problems around consistency, concurrency and auditability.
@@ -70,6 +74,7 @@ Multilingual emergency response platform for snake bite incidents, with a CNN cl
 
 ## 📫 Let's connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mahirbajole.vercel.app-0b5c4d?logo=vercel&logoColor=white)](https://mahirbajole.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahir_Bajole-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahir-bajole-5a183a32b/)
 [![Email](https://img.shields.io/badge/Email-mahirbajole653@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:mahirbajole653@gmail.com)
 
