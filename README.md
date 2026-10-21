@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mahir Bajole 👋</h1>
 
 <p align="center">
-  <b>Backend engineer in the making</b><br>
+  <b>Backend engineer</b><br>
   Final-year B.Tech CSE @ Walchand College of Engineering, Sangli (CGPA 9.10/10)
 </p>
 
